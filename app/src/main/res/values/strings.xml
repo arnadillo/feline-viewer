@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_title">Feline Viewer</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="feline_kinds">
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Jaguar</item>
+        <item>Leopard</item>
+        <item>Cheetah</item>
+        <item>Lynx</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <color name="black">#000000</color>
+    <color name="orange">#FF9800</color>
+    <color name="dark_orange">#E65100</color>
+    <color name="white">#FFFFFF</color>
+    <color name="drawer_color">#FFB74D</color>
+    <color name="feline_bgcolor">#FFD180</color>
+
+
+</resources>
